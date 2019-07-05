@@ -14,3 +14,7 @@
 * [Bedrock FAQ](bedrock/bedrock-faq.md)
 * [Nukkit Plugin FAQ](bedrock/nukkit-plugin-faq.md)
 
+## Github Repo
+
+* [Edit Sample](github-repo/edit-sample.md)
+
