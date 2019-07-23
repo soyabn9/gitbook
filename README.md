@@ -81,7 +81,7 @@ Yes, you need to fill everything. But I don't have a phone number for telegram o
 {% hint style="info" %}
 If your request has been denied then please do not ask freemcserver staff on why it was denied. 
 
-They have security reasons as to why they cannot give such information out. All they say is that you need at least 1 out of 42 requirements to get your request to be denied.
+They have security reasons as to why they cannot give such information out. All they say is that you need at least 1 out of 72 requirements to get your request to be denied.
 {% endhint %}
 
 ## My time keeps messing up and shows the wrong time?
