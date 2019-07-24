@@ -20,5 +20,5 @@ Follow the guide below to create a modded server:
 6. Now upload the custom.jar, minecraft\_server.jar and libraries folder to the JAR folder using Filezilla **NOT** WebFTP as it does not allow the uploading of folders. A guide on how to get and use Filezilla is [here](../#how-to-get-and-use-the-recommended-ftp-client).
 7. Restart the server and now your done!
 
-If you have followed the above instructions then you will no errors in creating a modded server. 
+If you have followed the above instructions then you will have no errors in creating a modded server. 
 
